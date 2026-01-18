@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 
 
-Simply visit the [vercel](https://core-hr-project.vercel.app/) and start deploying.
+Simply visit the [Core Hr](https://core-hr-project.vercel.app/) and check mu project.
 
 
 **Use your preferred IDE**

@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 
 
-Simply visit the [vercel](https://core-hr-project.vercel.app/) and start prompting.
+Simply visit the [vercel](https://core-hr-project.vercel.app/) and start deploying.
 
 
 **Use your preferred IDE**
